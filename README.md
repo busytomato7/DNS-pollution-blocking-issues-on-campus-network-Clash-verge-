@@ -1,5 +1,5 @@
 # DNS-pollution-blocking-issues-on-campus-network-Clash-verge-
-终于解决了校园网梯子的问题，可以愉快逛GitHub了
+终于解决了校园网梯子的timeout问题，可以愉快逛GitHub了
 # 记录一次解决校园网环境下 Clash Verge 节点全部 Timeout 的过程
 
 ## 📌 问题描述
